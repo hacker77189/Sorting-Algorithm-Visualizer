@@ -56,45 +56,5 @@ You can include screenshots or GIFs of the visualizer in action to showcase the 
 
 5. Click **Sort** to start the visualization.
 
----
 
-## 📁 Project Structure
 
-```
-📦 sorting-visualizer
-├── index.html         # Main HTML file
-├── style.css          # Styling (colors, layout, animation)
-├── script.js          # JavaScript logic for sorting and visualization
-└── README.md          # Project documentation
-```
-
----
-
-## 📚 Learning Outcomes
-
-Through this project, you will gain a better understanding of:
-
-- The behavior and complexity of various sorting algorithms.
-- DOM manipulation and animations using JavaScript.
-- Designing interactive user interfaces.
-
----
-
-## 🙌 Contributions
-
-Pull requests are welcome! If you have suggestions for improvements or want to add more algorithms (like Heap Sort, Radix Sort, etc.), feel free to contribute.
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 📬 Contact
-
-For questions or feedback, feel free to reach out:
-
-**Minhaj Alam**  
-[GitHub](https://github.com/hacker77189) | [Email](mailto:your-email@example.com)
