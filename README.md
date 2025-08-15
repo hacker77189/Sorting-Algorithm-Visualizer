@@ -36,12 +36,6 @@ Each algorithm displays a step-by-step transformation of the array until it is f
 
 ---
 
-## 📸 Screenshots (Optional)
-
-You can include screenshots or GIFs of the visualizer in action to showcase the UI and functionality.
-
----
-
 ## 💡 How to Use
 
 1. Clone the repository:
